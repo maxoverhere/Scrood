@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">scrood</string>
+    <string name="action_settings">onfsdjf</string>
+
+    <string-array name="name">
+        <item name="name">Subway</item>
+        <item name="name">Dominos</item>
+        <item name="name">Macdo</item>
+        <item name="name">BurgerKing</item>
+        <item name="name">KFC</item>
+        <item name="name">Hako sushi</item>
+        <item name="name">Dragon de chine</item>
+        <item name="name">Huxtaburger</item>
+        <item name="name">Subway</item>
+        <item name="name">Dominos</item>
+        <item name="name">Macdo</item>
+        <item name="name">BurgerKing</item>
+        <item name="name">KFC</item>
+        <item name="name">Hako sushi</item>
+        <item name="name">Dragon de chine</item>
+        <item name="name">Huxtaburger</item>
+    </string-array>
+</resources>
